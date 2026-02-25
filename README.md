@@ -23,6 +23,7 @@ During this project, I learned:
 - MySQL
 - Thymeleaf
 - Maven
+- HTML
 
 ---
 
